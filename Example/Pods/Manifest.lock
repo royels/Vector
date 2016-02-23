@@ -1,0 +1,14 @@
+PODS:
+  - Vector (0.1.0)
+
+DEPENDENCIES:
+  - Vector (from `../`)
+
+EXTERNAL SOURCES:
+  Vector:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Vector: ecdd33a492e536101062438f0014849050ac6f8e
+
+COCOAPODS: 0.39.0

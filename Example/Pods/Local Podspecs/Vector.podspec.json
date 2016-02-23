@@ -1,0 +1,25 @@
+{
+  "name": "Vector",
+  "version": "0.1.0",
+  "summary": "A short description of Vector.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/Vector",
+  "license": "MIT",
+  "authors": {
+    "royels": "docmentz@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/Vector.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "Vector": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
