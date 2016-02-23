@@ -22,7 +22,7 @@ pod "Vector"
 
 ## Author
 
-royels, docmentz@gmail.com
+royels, ryelsang@ucsd.edu
 
 ## License
 
